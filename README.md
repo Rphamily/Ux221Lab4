@@ -2,4 +2,4 @@
 
 WordPress on GitHub pages.
 
-{Edit here}{https://diy.pwa.dev/~/gh/rphamily/Ux221Lab4)
+[Edit here]{https://diy.pwa.dev/~/gh/rphamily/Ux221Lab4)
